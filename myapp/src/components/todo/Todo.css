@@ -1,0 +1,55 @@
+.todo-container
+{
+    background-color: black;
+    width:70vw;
+    margin: 5em auto;
+    border-radius: 10px;
+    padding:15px;
+    color:white;
+}
+.header
+{
+    font-size: 2em;
+    text-align: center;
+}
+.input1
+{
+    background-color: black;
+    border-radius: 1em;
+    padding:0.5em;
+    border:2px solid yellow;
+}
+.input{
+    font-size: 1em;
+    font-weight: bold;
+    color:black;
+    background-color: white;
+    border:1px;
+    padding: 0.5em;
+    margin: 1em;
+    width: 80%;
+}
+.add1
+{
+    margin: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: greenyellow;
+}
+.list1
+{
+    font-size: 1,5em;
+     font-style: italic;
+     font-weight: bold;
+     color:yellow;
+     background-color: black;
+     border: 1px solid yellow;
+
+}
+.dlt
+{
+    margin: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:mediumturquoise;
+}
